@@ -1,4 +1,6 @@
 ### Hi there 👋
+🌱 I’m currently learning software engineering by lx
+🌱 I’m currently learning software engineering at Adama Science and Technology University
 
 <!--
 **Lindagez/Lindagez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
