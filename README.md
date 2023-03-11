@@ -1,4 +1,4 @@
-### Hi there 👋
+ Hi there 👋, I'm Lidiya
 🌱 I’m currently learning software engineering by alx
 
 🌱 I’m currently learning software engineering at Adama Science and Technology University
