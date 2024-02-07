@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lidiya Gezahegn Dadi</h1>
-<h3 align="center">A passionate Full stack software engineer specialized in frontend developer</h3>
+<h3 align="center">A passionate full-stack software engineer, specializing in front-end development.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lindagez&label=Profile%20views&color=0e75b6&style=flat" alt="lindagez" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lidiyagez@gmail.com**
 
-- ⚡ Fun fact: <br>
+- ⚡ Fun fact: I think I am funny 😃 <br>
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=5461d1&vCenter=true&width=600&lines=It+is+just+the+beginning!)
 
 <h3 align="left">Connect with me:</h3>
