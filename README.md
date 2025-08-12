@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lidiyagez@gmail.com**
 
-- ⚡ Fun fact: I think I am funny 😃 <br>
+- ⚡ Fun fact: I think I am funny 😃<br>
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=5461d1&vCenter=true&width=600&lines=It+is+just+the+beginning!)
 
 <h3 align="left">Connect with me:</h3>
