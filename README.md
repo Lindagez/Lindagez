@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/Lindagez/Lindagez/blob/main/ab22e838-98c8-4f6d-806b-7c6b14969025_coding%2Bgiphy.avif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lindagez&label=Profile%20views&color=0e75b6&style=flat" alt="lindagez" /> </p>
 
-- 💬 Ask me about **react,react-vite,Next.js,node.js,Express.js**
+- 💬 Ask me about **react,react-vite,Next.js,node.js,Nest.js,Express.js**
 
 - 📫 How to reach me **lidiyagez@gmail.com**
 
